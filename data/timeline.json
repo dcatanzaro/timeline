@@ -1,0 +1,205 @@
+[
+  {
+    "id": 1,
+    "date": "1995-05-05",
+    "title": "Nazco",
+    "description": ""
+  },
+  {
+    "id": 2,
+    "date": "2008-10-01",
+    "title": "Argentum Online y los foros",
+    "description": "No hay una mejor manera de empezar esta historia que con el juego que me llevó a conocer la programación.",
+    "image": "ao.png",
+    "slug": "argentum-online"
+  },
+  {
+    "id": 3,
+    "date": "2010-04-01",
+    "title": "Visual Basic 6",
+    "description": "Primer código hecho 100% por mi, en VB6, para el Argentum Online.",
+    "image": "vb6.png",
+    "slug": "my-first-code"
+  },
+  {
+    "id": 4,
+    "date": "2010-05-01",
+    "title": "Mis amigos",
+    "description": "Conozco personalmente gente de estos foros.",
+    "image": "28.png",
+    "slug": "friends"
+  },
+  {
+    "id": 5,
+    "date": "2011-08-01",
+    "title": "Programación Web",
+    "image": "html_css_js.png",
+    "slug": "web-programming"
+  },
+  {
+    "id": 6,
+    "date": "2012-02-01",
+    "title": "Ranking AO",
+    "description": "Primera web en producción.",
+    "slug": "ranking-ao",
+    "image": "rankingao.png"
+  },
+  {
+    "id": 7,
+    "date": "2013-05-10",
+    "title": "Adoos",
+    "description": "Primer trabajo en sistemas como programador (Adoos).",
+    "image": "adoos_logo.png",
+    "slug": "adoos"
+  },
+  {
+    "id": 8,
+    "date": "2013-07-01",
+    "title": "Be a Legend",
+    "description": "Creación de Be a Legend, un equipo profesional de League of Legends.",
+    "image": "bealegend.png",
+    "slug": "be-a-legend"
+  },
+  {
+    "id": 9,
+    "date": "2013-12-01",
+    "title": "TGV",
+    "description": "Segunda empresa, una software factory, saltando de Junior a Semi-Senior.",
+    "image": "tgv.png",
+    "slug": "tgv"
+  },
+  {
+    "id": 10,
+    "date": "2014-06-01",
+    "title": "Argentum Online Web",
+    "description": "Arranco a programar Argentum Online Web, mismo juego que me enseñó a programar hecho en VB6 pero con la idea de pasarlo todo a web.",
+    "image": "aoweb_3.png",
+    "slug": "argentum-online-web"
+  },
+  {
+    "id": 11,
+    "date": "2014-09-01",
+    "title": "Freelance (Parte 1)",
+    "description": "Me voy de TGV a aventurarme en el mundo del freelance.",
+    "slug": "freelance-part1"
+  },
+  {
+    "id": 12,
+    "date": "2015-03-01",
+    "title": "Argentum Online Web - Release",
+    "description": "Termino de programar la primera versión de AOWeb, después de casi un año de leer engines, servidores, protocolos real-time y sockets, uno de los proyectos que más quise y más me enseñó.",
+    "image": "aoweb_release_1.png",
+    "slug": "argentum-online-web-release"
+  },
+  {
+    "id": 13,
+    "date": "2016-02-01",
+    "title": "MercadoLibre",
+    "description": "Cansado de freelancear entro a MercadoLibre a trabajar como FrontEnd Engineer.",
+    "image": "ml_1.png",
+    "slug": "mercadolibre"
+  },
+  {
+    "id": 14,
+    "date": "2016-05-01",
+    "title": "De Lanús a Capital Federal",
+    "description": "Me mudo a Capital Federal para no tener 4 horas de viaje diario hasta las oficinas de MercadoLibre.",
+    "image": "caba_1.png",
+    "slug": "lanus-to-caba"
+  },
+  {
+    "id": 15,
+    "date": "2016-11-01",
+    "title": "Garbarino",
+    "description": "Entro a trabajar en Garbarino para construir desde 0 la web y trabajar en el primer ecommerce en Argentina en implementar PWA.",
+    "image": "garba_1.png",
+    "slug": "garbarino"
+  },
+  {
+    "id": 16,
+    "date": "2017-04-01",
+    "title": "Europa",
+    "description": "Primer viaje en avión y fuera del país.",
+    "image": "europe_0.png",
+    "slug": "europe"
+  },
+  {
+    "id": 17,
+    "date": "2017-08-01",
+    "title": "Freelance (Parte 2)",
+    "description": "Cansado de Garbarino y con las metas cumplidas en esa empresa, renuncio y vuelvo a intentar hacer freelance.",
+    "image": "digi.png",
+    "slug": "freelance-part2"
+  },
+  {
+    "id": 18,
+    "date": "2019-01-01",
+    "title": "CourseIT",
+    "description": "Creación de CourseIT, un bootcamp presencial y remoto que enseña programación y desarrollo web.",
+    "image": "courseit_9.png",
+    "slug": "courseit"
+  },
+  {
+    "id": 19,
+    "date": "2020-03-01",
+    "title": "Cafecito (Parte 1)",
+    "description": "Surge la idea de crear Cafecito como plataforma OpenSource de microdonaciones.",
+    "image": "cafecito_front.png",
+    "slug": "cafecito-part1"
+  },
+  {
+    "id": 20,
+    "date": "2020-05-01",
+    "title": "Cafecito (Parte 2)",
+    "description": "Por la gran repercusión que tuvo la primera versión de Cafecito creo la plataforma como producto en si.",
+    "image": "cafecito_0.png",
+    "slug": "cafecito-part2"
+  },
+  {
+    "id": 21,
+    "date": "2020-08-01",
+    "title": "Cafecito (Parte 3)",
+    "description": "Renuncio a mi trabajo freelance en Digiventures y me dedico 100% a Cafecito.",
+    "image": "cafecito_logo.png",
+    "slug": "cafecito-part3"
+  },
+  {
+    "id": 22,
+    "date": "2022-04-01",
+    "title": "Dejo de ser Solo Founder",
+    "description": "Me asocio con Juani Gallo para poder escalar Cafecito.",
+    "image": "juanigallo.png",
+    "slug": "juani"
+  },
+  {
+    "id": 23,
+    "date": "2022-10-01",
+    "title": "FundIt",
+    "description": "Creación de FundIt, una plataforma de crowdfunding con crypto.",
+    "image": "fundit.png",
+    "slug": "fundit"
+  },
+  {
+    "id": 24,
+    "date": "2023-06-01",
+    "title": "Mi casa",
+    "description": "El hito mas grande de mi vida, logré comprar mi casa.",
+    "slug": "my-house"
+  },
+  {
+    "id": 25,
+    "date": "2024-08-01",
+    "title": "Amplify",
+    "description": "Creación de Amplify, un procesador de pagos crypto para desarrolladores.",
+    "image": "amplify.png",
+    "slug": "amplify"
+  },
+  {
+    "id": 26,
+    "date": "2025-07-01",
+    "title": "GalioPay",
+    "description": "Creación de GalioPay, un procesador de pagos para resolver los problemas que tenia con los pagos en Cafecito.",
+    "image": "galiopay_logo.png",
+    "slug": "galiopay"
+  }
+]
