@@ -29,7 +29,9 @@ export default function ImageGallery({ images }: ImageGalleryProps) {
               className="relative rounded-lg overflow-hidden bg-gray-700 cursor-pointer group"
               onClick={() => handleImageClick(index)}
             >
-              <img
+              <Image
+                width={1000}
+                height={1000}
                 src={`/images_opt/${image}`}
                 alt={`Gallery image ${index + 1}`}
                 className="w-full h-auto group-hover:scale-105 transition-transform duration-300"
