@@ -30,9 +30,18 @@ export default function RootLayout({
       >
         {children}
         <Script
-          src="https://mntr.cafecito.app/js/script.js"
-          data-domain="damiancatanzaro.com"
+          src="https://mntr.cafecito.app/js/pa-J5hwLZQu3ALWXqHxJdqJL.js"
           strategy="afterInteractive"
+        />
+        <Script
+          id="plausible-init"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+              plausible.init()
+            `,
+          }}
         />
       </body>
     </html>
