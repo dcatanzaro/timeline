@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "My Life Journey",
-  description: "A timeline of important moments and milestones in my life",
+  title: "Damián Catanzaro",
+  description: "",
 };
 
 export default function RootLayout({
